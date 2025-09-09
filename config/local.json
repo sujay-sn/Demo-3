@@ -1,0 +1,11 @@
+{
+    "PORT": 3000,
+    "REDIS_URL": "redis://default:sCnBOZaENYjHg3GMQOuIilwTVUGeFUTq@redis-15505.c275.us-east-1-4.ec2.redns.redis-cloud.com:15505",
+    "PLAN_TYPE": "plan",
+    "JWT_SECRET": "demo3topsecret",
+    "RABBITMQ_QUEUE_NAME": "demo3-info7255",
+    "RABBITMQ_EXCHANGE_TYPE": "direct",
+    "RABBITMQ_EXCHANGE_NAME": "demo",
+    "RABBITMQ_KEY": "demo3",
+    "ELASTICSEARCH_INDEX_NAME": "indexplan"
+}
